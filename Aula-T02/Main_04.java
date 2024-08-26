@@ -10,14 +10,15 @@ public class Main_04 {
         System.out.println("b: " + b);
         // Reference Data Types
         String yourName = "Who";
-        String myName = yourName;
+        //String myName = yourName;
+        String myName = "Who";
         System.out.println("yourName: " + yourName);
         System.out.println("myName: " + myName);
         yourName = "You";
+        myName = "You"; 
         System.out.println("yourName: " + yourName);
         System.out.println("myName: " + myName);
         System.out.println(yourName == myName);
-
     }
 }
 

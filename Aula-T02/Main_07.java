@@ -5,11 +5,12 @@ public class Main_07 {
     
     public static void main(String[] args) {
         System.out.println("Implementando funções em Java");
-        System.out.println(12"Simulando 10 lançamentos de um dado:");
+        System.out.println("Simulando 10 lançamentos de um dado:");
         // 0 indica que a semente será a semente padrão do sistema
         jogaOsDados(1, 6, 10, 0); // chamada da função
         System.out.println("Todas as vezes que rodar este exemplo vai gerar o mesmo resultado!"); // Será? 
         long semente;
+
         System.out.println("Entre com a semente para gerar uma nova sequencia: ");
         Scanner sc = new Scanner(System.in);
         semente = sc.nextLong();
