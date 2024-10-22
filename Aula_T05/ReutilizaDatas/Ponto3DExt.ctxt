@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ponto3DExt
+comment1.params=
+comment1.target=Ponto3DExt()
+comment2.params=x\ y\ z
+comment2.target=Ponto3DExt(double,\ double,\ double)
+numComments=3

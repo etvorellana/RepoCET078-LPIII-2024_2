@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ponto3DComposta
+comment1.params=
+comment1.target=Ponto3DComposta()
+comment2.params=x\ y\ z
+comment2.target=Ponto3DComposta(double,\ double,\ double)
+numComments=3

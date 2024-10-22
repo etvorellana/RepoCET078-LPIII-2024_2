@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Ponto2D
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Ponto2D\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n\ \n\ \n
+comment1.params=
+comment1.target=Ponto2D()
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ Ponto2D\n
+comment2.params=x\ y
+comment2.target=Ponto2D(double,\ double)
+comment3.params=x
+comment3.target=void\ setX(double)
+comment4.params=y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=
+comment7.target=double\ raio()
+comment8.params=outroPonto
+comment8.target=double\ distanciaAte(Ponto2D)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
